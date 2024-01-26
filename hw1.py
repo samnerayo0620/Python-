@@ -1,5 +1,5 @@
 # Samuel Nerayo
-# CPSC-3400 -02 - HW1 - Finding Words Ladder
+# Finding Words Ladder
 
 """
 From a given starting word, finding the shortest "ladder"
